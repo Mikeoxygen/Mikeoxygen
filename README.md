@@ -23,6 +23,7 @@ This year (2021).. and it's been an amazing journey.
 I'm looking to Collaborate on any Innovation and Problem-solving project
 I'll be more interested anyone focused on youths and teenagers..
 You can reach me on Twitter https://twitter.com/Mikeoxygen1?s=09
+Ask me anything on Innovation ans Self improvement
 
 Now you can get back to work....⚡⚡
 
