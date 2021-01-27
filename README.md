@@ -16,8 +16,7 @@ ng for help with ...
 - ⚡ Fun fact: ...
 
 -->
-  [!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikeoxygen )](https://github.com/anuraghazra/github-readme-stats)
-
+  
 My name is Michael Adebambo, I'm 17 years old( I'm a supposed to tell you🙄 never mind)
 Technology is amazing i want to explore it...
 I've always been fascinated about Tech, Innovation and Problem-solving.
@@ -30,6 +29,9 @@ You can reach me on Twitter https://twitter.com/Mikeoxygen1?s=09
 Ask me anything on Innovation ans Self improvement
 
 Now you can get back to work....⚡⚡
+GitHub stats📈
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikeoxygen)]
 
 
 
