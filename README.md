@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Michael Adebambo, I'm 17 years old( I'm a supposed to tell you🙄 never mind)
+Technology is amazing i want to explore it...
+I've always been fascinated about Tech, Innovation and Problem-solving.
+I'm currently Learning front-end development.... 
+I started coding 2020... No i stopped. So officially, i started
+This year (2021).. and it's been an amazing journey.
+I'm looking to Collaborate on any Innovation and Problem-solving project
+I'll be more interested anyone focused on youths and teenagers..
+You can reach me on Twitter https://twitter.com/Mikeoxygen1?s=09
+
+Now you can get back to work....⚡⚡
+
+
+
+
