@@ -33,7 +33,7 @@ GitHub stats📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikeoxygen)]
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeoxygen&theme=lightgreen&blue
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeoxygen&theme=lightgreen&blue)
 
 
 
