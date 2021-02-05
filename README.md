@@ -33,6 +33,10 @@ GitHub stats📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikeoxygen)]
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeoxygen&theme=blue-green)
+
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = )
 
 
 
